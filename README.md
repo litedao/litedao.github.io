@@ -1,4 +1,4 @@
-# Vapor Developer pages ( developer.vaporydao.com )
+# Vapor Developer pages ( developer.vapordao.com )
 
 Served via github pages with Jekyll.
 

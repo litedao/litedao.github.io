@@ -1,4 +1,4 @@
-# Vapor Developer pages ( developer.vapordao.com )
+# LiteMaker Developer pages ( dao.litetokens.org )
 
 Served via github pages with Jekyll.
 
